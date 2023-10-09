@@ -4,19 +4,19 @@
 
 A character is anything capable of thinking or performing actions. This incluides sentient things like animals, humans and AIs, but can also less non-sentient things such as automated turrets.
 
-## 1.1.0 Skills
+## 1.1.0 Attributes
 
-Skills represent a character's ability in a certain field, and are scored on 3 axes.
+### 1.1.1 Moxie
 
-### 1.1.1 Aptitude
 
-This score determines the number of dice you roll when you make checks. This is effectively the upper limit of what degree of success you can achieve with a particular skill. You can only increase your aptitude by earning a "breakthrough".
 
-### 1.1.2 Moxie 
+### 1.1.2 Smarts
 
-This score determines the target number of checks to perform actions of or relating to the skill.
 
-### 1.1.3 Smarts
 
-This score determines the target number of checks to produce information of or relating to the skill.
+### 1.1.3 Poise
 
+
+
+
+## 1.2.0 Skills
