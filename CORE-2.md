@@ -12,7 +12,7 @@ Attributes determine the general ability of a character to do, know and resist.
 
 Moxie determines a character's ability to get stuff done.  
 
-It's fine down to it and you need to waste a gonk? Moxie'll guide your hand to your sidearm and then to their heart. Craft a fine work of art to spread your message? Moxie's at the wheel when you're tagging with that spray. Bypass intrusion countermeasure programs? Moxie'll get you through that mess without raising alarm.
+It's come down to it and you need to waste a gonk? Moxie'll guide your hand to your sidearm and then to their heart. Craft a fine work of art to spread your message? Moxie's at the wheel when you're tagging with that spray. Bypass intrusion countermeasure programs? Moxie'll get you through that mess without raising alarm.
 
 Now, that said, Moxie isn't just limited to physical acts. You'll find plenty of moxie in a character trying to lie, threaten, convince or seduce.
 
