@@ -27,7 +27,7 @@ Smarts isn't limited to just brainiac stuff either. Any con-artist who wants to 
 
 ### 1.1.3 Poise
 
-Poise determines a character's ability to resist stuff happening.
+Poise determines a character's ability to smooth stuff over.
 
 Suddenly blindsided by an autotruck? Poise will help you keep your cool and slide into a sick drift out of harm's way. Someone swinging a lead pipe at your head? Don't worry, poise keeps you standing strong as you deflect it with your chromed out arm. Trying to impress the thempress and they bring up that time you ruined their plans? Poise is going to help you smooth over that baseless accusation.
 
