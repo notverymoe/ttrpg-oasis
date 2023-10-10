@@ -28,9 +28,22 @@ Craft determines a character's ability to recall academic knowledge and breakdow
 
 Examples: Knowing how to fix a gun, knowing how to create certain chemicals, determining how technology works
 
-
 ### 1.1.4 Moxie
 
 Moxie determine a character's ability understand and react to react when caught off-guard or to unpredictable events.
 
 Examples: Avoiding a car crash, reacting to someone pulling a gun, predicting someone's intentions, avoiding/deflecting melee attacks
+
+## 1.2 Skills
+
+Skills have a score that determines the target number to roll against when making checks. They are meant to represent your overall expertise in an area, whilst qualities colour your ability to apply that skill.
+
+A high poise low craft chemist might be great at manufacturer, but not be able to do anything without a recipe. Whereas a high craft low poise chemist might be able to design novel formulations, but when it comes to manufacture their hands are so shaky that it's dangerous.
+
+For skills and their descriptions see the [Skills](SKILLS.md) booklet.
+
+## 1.3 Quirks
+
+Quirks are specific abilities that allow a character to interact uniquely with the world or gain an advantage in certain situations, but, sometimes they instead impair a character either partially or wholly.
+
+Examples: shooting multiple targets when you would normally only be able to shoot one, getting a bonus on craft checks with certain skills, behing better at athletics at the cost of struggling to drive, missing an eye reducing your aim accuracy.
