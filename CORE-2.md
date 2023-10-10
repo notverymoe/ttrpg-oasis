@@ -51,3 +51,10 @@ Quirks are specific abilities that allow a character to interact uniquely with t
 Examples: shooting multiple targets when you would normally only be able to shoot one, getting a bonus on craft checks with certain skills, behing better at athletics at the cost of struggling to drive, missing an eye reducing your aim accuracy.
 
 For quirks and their descriptions see the [Quirks](QUITKS.md) booklet.
+
+# 2.0.0 Checks
+
+Whenever there's a chance a particular action carries a chance of notable failure, the GM or rules may ask for a check.
+
+Checks are made by rolling a pool of d12s and comparing the **degree** of the roll (number of dice that rolled under the target number) to the difficulty class of the check. The size of the dice pool is typically determined by the relevant quality of a character and the target number the relevant skill being used to perform the action.
+
