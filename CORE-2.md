@@ -14,13 +14,13 @@ Bit of a muscle head? Gun jammed? Slam it against the wall with vigor to free it
 
 Vigor determines a character's ability to perform energetic actions. This ability would be used where a character is relying on muscle memory, adrenaline and quick action. 
 
-Examples: Racing cars, Suppressive fire, Acting
+Examples: Racing cars, Suppressive fire, Climbing, Swimming
 
 ### 1.1.2 Poise
 
 Poise determines a character's ability to perform controlled actions.
 
-Examples: Regular driving, Precision attacks, Stealth
+Examples: Regular driving, Precision attacks, Stealth, Balancing
 
 ### 1.1.3 Craft
 
@@ -33,4 +33,4 @@ Examples: Knowing how to fix a gun, knowing how to create certain chemicals, det
 
 Moxie determine a character's ability understand and react to react when caught off-guard or to unpredictable events.
 
-Examples: Avoiding a car crash, reacting to someone pulling a gun, understanding someone's intentions
+Examples: Avoiding a car crash, reacting to someone pulling a gun, predicting someone's intentions, avoiding/deflecting melee attacks
