@@ -4,6 +4,8 @@
 
 A character is anything capable of thinking or performing actions. This incluides sentient things like animals, humans and AIs, but can also less non-sentient things such as automated turrets.
 
+For player character creation see the [Player Generation](PLAYER_GEN.md) booklet.
+
 ## 1.1.0 Qualities
 
 Qualities determine the number of dice a character rolls when making a check. The boundaries of qualities are intentionally fuzzy to encourage gaming the system through strong roleplay.
@@ -47,3 +49,5 @@ For skills and their descriptions see the [Skills](SKILLS.md) booklet.
 Quirks are specific abilities that allow a character to interact uniquely with the world or gain an advantage in certain situations, but, sometimes they instead impair a character either partially or wholly.
 
 Examples: shooting multiple targets when you would normally only be able to shoot one, getting a bonus on craft checks with certain skills, behing better at athletics at the cost of struggling to drive, missing an eye reducing your aim accuracy.
+
+For quirks and their descriptions see the [Quirks](QUITKS.md) booklet.
