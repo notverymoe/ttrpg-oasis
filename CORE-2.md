@@ -4,21 +4,23 @@
 
 A character is anything capable of thinking or performing actions. This incluides sentient things like animals, humans and AIs, but can also less non-sentient things such as automated turrets.
 
-## 1.1.0 Abilities
+## 1.1.0 Qualities
 
-Attributes determine the general ability of a character to do, know and resist.
+Qualities determine the number of dice a character rolls when making a check. The boundaries of qualities are intentionally fuzzy to encourage gaming the system through strong roleplay.
+
+Bit of a muscle head? Gun jammed? Slam it against the wall with vigor to free it. More graceful? Use poise to manually eject the jammed round. Quick with your hands? Use moxie create an opportunity for a hipshot with your sidearm. Big brain? Use craft to ensure your gun doesn't jam in the first place.
 
 ### 1.1.1 Vigor
 
 Vigor determines a character's ability to perform energetic actions. This ability would be used where a character is relying on muscle memory, adrenaline and quick action. 
 
-Examples: Racing cars, Most melee attacks, Suppressive fire
+Examples: Racing cars, Suppressive fire, Acting
 
 ### 1.1.2 Poise
 
 Poise determines a character's ability to perform controlled actions.
 
-Examples: Regular driving, Most ranged attacks, Precision melee attacks
+Examples: Regular driving, Precision attacks, Stealth
 
 ### 1.1.3 Craft
 
